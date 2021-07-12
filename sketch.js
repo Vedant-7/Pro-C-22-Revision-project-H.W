@@ -98,7 +98,7 @@ function draw(){
     rect(0, 0, 100, 20);
     pop();
    
-    fill("red")
+    fill("redlightpink")
     ellipseMode(RADIUS);
     ellipse(ball.position.x, ball.position.y, 20, 20);
 }
